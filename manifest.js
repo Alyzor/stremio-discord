@@ -1,7 +1,7 @@
 const {description, version} = require('./package');
 
 module.exports = {
-    id: 'com.sleeyax.stremio-discord',
+    id: 'com.alyzor.stremio-discord-remake',
     name: 'Discord Rich Presence',
     description,
     catalogs: [],
